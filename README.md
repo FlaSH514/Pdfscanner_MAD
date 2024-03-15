@@ -1,16 +1,10 @@
-# part3
+![loginpage](https://github.com/FlaSH514/Pdfscanner_MAD/assets/103647393/9379da29-d993-42e6-807e-7a7422fa62b1) ![Screenshot 2024-03-15 204024](https://github.com/FlaSH514/Pdfscanner_MAD/assets/103647393/03ec2368-ca64-42b9-a0e7-e0cf42b27009) ![Screenshot 2024-03-15 204115](https://github.com/FlaSH514/Pdfscanner_MAD/assets/103647393/e4ec3434-da5d-44ec-a222-145cc220daf9)
+![Screenshot 2024-03-15 204257](https://github.com/FlaSH514/Pdfscanner_MAD/assets/103647393/2a0a08c2-001f-441d-b0e9-d74c06021fec) 
 
-A new Flutter project.
+![camera](https://github.com/FlaSH514/Pdfscanner_MAD/assets/103647393/27da1b7b-7a37-45e9-ac01-81c5bef1bcb4)
 
-## Getting Started
+![scan image](https://github.com/FlaSH514/Pdfscanner_MAD/assets/103647393/8606caac-098a-4f85-8316-34cbe4699b53)
 
-This project is a starting point for a Flutter application.
+![rotated](https://github.com/FlaSH514/Pdfscanner_MAD/assets/103647393/049c5f00-46a3-47f8-9d38-44451384af76)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![drawing board](https://github.com/FlaSH514/Pdfscanner_MAD/assets/103647393/fc1eedfd-bd22-4a8c-a8aa-3f90127f7b3f)
