@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
-import 'thirdpage.dart';
 import 'firstpage.dart';
 import 'secondpage.dart';
+import 'thirdpage.dart';
+import 'loginpart.dart';
+import 'ocr_page.dart'; // Import the new OCR page file
 
 void main() {
   runApp(MyApp());
@@ -29,20 +31,26 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
-      length: 3,
+      length: 5, // Change the length to 5 for the new tabs
       child: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.indigo[900],
-          bottom: const TabBar(
+          bottom: TabBar(
             tabs: [
               Tab(
-                text: "original \nimage",
+                text: "Login", // Add a new tab for the login page
               ),
               Tab(
-                text: "Scan \nimage",
+                text: "Original\nImage",
               ),
               Tab(
-                text: "Draw \nimage",
+                text: "Scan\nImage",
+              ),
+              Tab(
+                text: "Draw\nImage",
+              ),
+              Tab(
+                text: "OCR", // Add a new tab for OCR
               ),
             ],
           ),
@@ -52,9 +60,11 @@ class _HomeState extends State<Home> {
         ),
         body: TabBarView(
           children: [
+            LoginPage(), // Add the login page as a new tab
             Firstpage(),
             Secondpage(),
             thirdpage(),
+            OCRPage(), // Add the OCR page as a new tab
           ],
         ),
       ),
